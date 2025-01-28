@@ -7,4 +7,4 @@
 # Functionality in this Application Platform:
 # Sandeep Narsin
 ### Payment Options
-#Integrate payment gateways like credit/debit cards, wallets, UPI, and net banking. Include options for installment payments if applicable.
+Integrate payment gateways like credit/debit cards, wallets, UPI, and net banking. Include options for installment payments if applicable.
